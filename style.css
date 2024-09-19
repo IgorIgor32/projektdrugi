@@ -1,0 +1,48 @@
+
+
+body
+{
+    background-image: url('https://i.pinimg.com/originals/1b/45/63/1b456377a9dce67a7dc3630260aa7572.gif');
+    color: white;
+}
+
+
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 30px;
+    background-color: white;
+    color: black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.tabela1 td {
+    padding: 100px; 
+}
+
+
+.tabela2 {
+    margin: 60px 60px; 
+}
+
+.tabela3 {
+    margin: 10px 10px 10px; 
+}
+
+
+.tabela4 {
+    margin: 30px 30px 30px 30px; 
+}
+
+.tabela5 {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
